@@ -124,7 +124,7 @@ Before launching WIFISHOT, ensure you have:
 | `10`   | WPS Network Attacks               | Sub-menu for WPS attacks (`reaver`, `bully`, etc.). Needs BSSID & monitor interface.  |
 | `11`   | Scan for WPS Networks             | Uses `airodump-ng --wps` to find WPS networks.                                      |
 | `0`    | About Me                          | Author info (jcrvnx) & contact details.                                             |
-| `00`   | Exit                              | Exits WIFISHOT.                                                                     |
+| `CTRL+C`   | Exit                              | Exits WIFISHOT.                                                                     |
 
 ---
 
